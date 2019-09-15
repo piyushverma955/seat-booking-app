@@ -3,5 +3,5 @@ If any seat is already booked, you can't booked it again. it is only frontend ap
 
 #How To Run:
 
-- Do npm i
+- Do npm i <br />
 -npm start
